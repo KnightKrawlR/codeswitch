@@ -49,3 +49,10 @@ All elements from ideas.md have been implemented:
 - ✓ All 6 content sections (Hero, Concept, EPs x4, About, Footer)
 - ✓ Smooth scroll navigation
 - ✓ Interactive elements
+
+
+## Deployment Tasks
+- [ ] Create GitHub repository for CodeSwitch
+- [ ] Push code to GitHub
+- [ ] Deploy to Vercel
+- [ ] Configure custom domain (if needed)
